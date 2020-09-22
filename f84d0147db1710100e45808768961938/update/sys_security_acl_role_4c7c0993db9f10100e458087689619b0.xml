@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-22 04:27:53</sys_created_on>
+        <sys_id>4c7c0993db9f10100e458087689619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_535074_second_ap_table_2.x_535074_second_ap.table_2_user</sys_name>
+        <sys_package display_value="Second Application " source="x_535074_second_ap">f84d0147db1710100e45808768961938</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Second Application ">f84d0147db1710100e45808768961938</sys_scope>
+        <sys_security_acl display_value="x_535074_second_ap_table_2">0c7c0993db9f10100e458087689619ad</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4c7c0993db9f10100e458087689619b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-22 04:27:53</sys_updated_on>
+        <sys_user_role display_value="x_535074_second_ap.table_2_user" name="x_535074_second_ap.table_2_user">f36c8113db9f10100e458087689619d5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

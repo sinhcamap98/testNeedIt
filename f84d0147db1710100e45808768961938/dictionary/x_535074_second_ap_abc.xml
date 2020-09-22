@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="alm_asset" label="abc" max_length="40" name="x_535074_second_ap_abc" type="collection">
+        <element label="New fields 1" max_length="40" name="new_fields_1" type="integer"/>
+        <element attributes="encode_utf8=false" label="This is reference" max_length="32" name="u_reference_1" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="field custom" max_length="40" name="u_string_1" type="string"/>
+        <index name="index">
+            <element name="u_reference_1"/>
+        </index>
+    </element>
+</database>
